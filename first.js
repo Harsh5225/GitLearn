@@ -13,3 +13,7 @@ console.log(payment);
 
 const Upipayment="Integrated the UPI payment"
 console.log(Upipayment);
+
+
+// BugFixed branch is added
+console.log("Bugs are fiexd now.");
